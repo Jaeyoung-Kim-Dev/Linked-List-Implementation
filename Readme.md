@@ -14,6 +14,10 @@
 
 Testing: JUnit
 
+## Documentation
+
+<a href="https://jaeyoung-kim-dev.github.io/Linked-List-Implementation/" target=" _blank">JavaDoc</a>
+
 ## Functionality (Linked List interface contains)
 
 - Prepend an item to the beginning of the linked list.
