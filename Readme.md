@@ -48,10 +48,10 @@ Testing: JUnit
 
 > Example user data in the test
 
-1.  User(1, "Joe Blow", "jblow@gmail.com", "password"));
-2.  User(2, "Joe Schmoe", "joe.schmoe@outlook.com", "abcdef"));
-3.  User(3, "Colonel Sanders", "chickenlover1890@gmail.com", "kfc5555"));
-4.  User(4, "Ronald McDonald", "burgers4life63@outlook.com", "mcdonalds999"));
+1.  User(1, "Joe Blow", "jblow@gmail.com", "password");
+2.  User(2, "Joe Schmoe", "joe.schmoe@outlook.com", "abcdef");
+3.  User(3, "Colonel Sanders", "chickenlover1890@gmail.com", "kfc5555");
+4.  User(4, "Ronald McDonald", "burgers4life63@outlook.com", "mcdonalds999");
 
 ![SerializationPassTests](./screenshots/SerializationPassTests.jpg?raw=true)
 
